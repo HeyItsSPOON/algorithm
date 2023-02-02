@@ -7,7 +7,7 @@ public class BreakEvenPoint {
         int variableCost = sc.nextInt();
         int price = sc.nextInt();
 
-        // 이익이 발생하지 않을 때.
+        // 이익이 발생하지 않을 때. 가변비용보다 노트북 생산비용이 더 작으면 손익분기점을 넘을 수 없다.
         if (variableCost >= price) {
             System.out.println(-1);
         } else {
