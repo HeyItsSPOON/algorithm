@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1481598-fc4a-4d50-b491-f3767674efed" name="Changes" comment="" />
+    <list default="true" id="d1481598-fc4a-4d50-b491-f3767674efed" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../PrimeNumber/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PrimeNumber/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrimeNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PrimeNumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrimeNumber/src/main/java/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PrimeNumber/src/main/java/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../find_fraction/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../find_fraction/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../find_fraction/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../find_fraction/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +43,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/YUNAKIM/Documents/workspaces/algorithm/BigInteger",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
