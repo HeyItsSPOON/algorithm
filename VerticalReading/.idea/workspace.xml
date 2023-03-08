@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94450a82-02bd-4f15-a6ad-a2209c8842c4" name="Changes" comment="" />
+    <list default="true" id="4c8643ab-f359-4934-b572-b6357518e8ef" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +28,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2M7QdQDsAr8dt8aOYg83OfK6pOl" />
+  <component name="ProjectId" id="2Mhy8EzLc28Kb6NODgqcEvjuyhu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,18 +37,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/kyaspvdi/workspaces/demo",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="94450a82-02bd-4f15-a6ad-a2209c8842c4" name="Changes" comment="" />
-      <created>1677116230855</created>
+      <changelist id="4c8643ab-f359-4934-b572-b6357518e8ef" name="Changes" comment="" />
+      <created>1678233951614</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1677116230855</updated>
+      <updated>1678233951614</updated>
     </task>
     <servers />
   </component>
